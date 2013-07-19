@@ -1,0 +1,25 @@
+{
+  "family": "emo",
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "Base animation class.",
+  "homepage": "https://github.com/emojs2013/animation",
+  "author": "Lee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/emojs2013/animation.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["animation.js"],
+    "alias": {
+      "frame":"emo/frame/1.0.0/frame"
+    },
+    "devAlias": {},
+    "engines": {}
+  }
+}
